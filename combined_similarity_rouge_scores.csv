@@ -1,0 +1,1004 @@
+GroundTruth,GeneratedAnswer,SemanticSimilarity,ROUGE-1,ROUGE-2,ROUGE-L
+"in combination with trastuzumab and capecitabine for treatment of adult 
+patients with advanced unresectable or metastatic HER2-positive breast 
+cancer, including patients with brain metastases, who have received one 
+or more prior anti-HER2-based regimens in the metastatic setting. (1.1).in combination with trastuzumab for the treatment of adult patients with RAS wild-type HER2-positive unresectable or metastatic colorectal 
+cancer that has progressed following treatment with fluoropyrimidine-, 
+oxaliplatin-, and irinotecan-based chemotherapy. (1.2) This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.2)]. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.","TUKYSA is indicated for the treatment of adult patients with advanced unresectable or metastatic HER2-positive breast cancer in combination with trastuzumab and capecitabine, including patients with brain metastases, who have received one or more prior anti-HER2-based regimens in the metastatic setting. It is also indicated for the treatment of adult patients with RAS wild-type HER2-positive unresectable or metastatic colorectal cancer that has progressed following treatment with fluoropyrimidine-, oxaliplatin-, and irinotecan-based chemotherapy.",0.7405270934104919,0.7253886010362693,0.6701570680628273,0.6528497409326425
+"in combination with trastuzumab and capecitabine for treatment of adult 
+patients with advanced unresectable or metastatic HER2-positive breast 
+cancer, including patients with brain metastases, who have received one 
+or more prior anti-HER2-based regimens in the metastatic setting. (1.1).in combination with trastuzumab for the treatment of adult patients with RAS wild-type HER2-positive unresectable or metastatic colorectal 
+cancer that has progressed following treatment with fluoropyrimidine-, 
+oxaliplatin-, and irinotecan-based chemotherapy. (1.2) This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.2)]. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.","The indications for TUKYSA are:
+
+In combination with trastuzumab and capecitabine for the treatment of adult patients with advanced unresectable or metastatic HER2-positive breast cancer who have received one or more prior anti-HER2-based regimens.
+In combination with trastuzumab for the treatment of adult patients with RAS wild-type HER2-positive unresectable or metastatic colorectal cancer that has progressed following treatment with fluoropyrimidine-, oxaliplatin-, and irinotecan-based chemotherapy.",0.8058750033378601,0.7096774193548387,0.6630434782608696,0.6881720430107526
+"in combination with trastuzumab and capecitabine for treatment of adult 
+patients with advanced unresectable or metastatic HER2-positive breast 
+cancer, including patients with brain metastases, who have received one 
+or more prior anti-HER2-based regimens in the metastatic setting. (1.1).in combination with trastuzumab for the treatment of adult patients with RAS wild-type HER2-positive unresectable or metastatic colorectal 
+cancer that has progressed following treatment with fluoropyrimidine-, 
+oxaliplatin-, and irinotecan-based chemotherapy. (1.2) This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.2)]. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials."," TUKYSA is a kinase inhibitor indicated for the treatment of adult patients with advanced unresectable or metastatic HER2-positive breast cancer in combination with trastuzumab and capecitabine, and for the treatment of adult patients with RAS wild-type HER2-positive unresectable or metastatic colorectal cancer in combination with trastuzumab.",0.6511927843093872,0.5333333333333333,0.441717791411043,0.43636363636363634
+"In patients with unresectable or metastatic colorectal cancer, confirm the presence of HER2 protein overexpression and RAS wild-type in tumor specimens prior to the initiation of TUKYSA (2.1). Recommended dosage: 300 mg taken orally twice daily with or without 
+food. (2.1). For patients with severe hepatic impairment, the recommended dosage is 200 mg orally twice daily. (2.3, 8.7)","Recommended dosage for TUKYSA is 300 mg taken orally twice daily with or without food. In patients with severe hepatic impairment, the recommended dosage is 200 mg orally twice daily.",0.827926516532898,0.6236559139784946,0.5274725274725275,0.5591397849462365
+" Diarrhea: Severe diarrhea, including dehydration, acute kidney injury, and 
+death, has been reported. Administer antidiarrheal treatment as clinically 
+indicated. Interrupt dose, then dose reduce, or permanently discontinue 
+TUKYSA based on severity. (2.2, 5.1) 
+ Hepatotoxicity: Severe hepatotoxicity has been reported on TUKYSA. 
+Monitor ALT, AST and bilirubin prior to starting TUKYSA, every 3 weeks 
+during treatment and as clinically indicated. Interrupt dose, then dose 
+reduce, or permanently discontinue TUKYSA based on severity. (2.2, 5.2) 
+ Embryo-Fetal Toxicity: TUKYSA can cause fetal harm. Advise patients of 
+potential risk to a fetus and to use effective contraception. (5.3, 8.1, 8.3) 
+Also, refer to the Full Prescribing Information of trastuzumab and 
+capecitabine for pregnancy and contraception information.","The warnings for TUKYSA include:
+
+Diarrhea: Severe diarrhea, including dehydration, acute kidney injury, and death, has been reported. Administer antidiarrheal treatment as clinically indicated. Interrupt dose, then dose reduce, or permanently discontinue TUKYSA based on severity.
+Hepatotoxicity: Severe hepatotoxicity has been reported with TUKYSA. Monitor ALT, AST, and bilirubin levels prior to starting TUKYSA, every 3 weeks during treatment, and as clinically indicated. Interrupt dose, then dose reduce, or permanently discontinue TUKYSA based on severity.
+Embryo-Fetal Toxicity: TUKYSA can cause fetal harm. Advise patients of the potential risk to a fetus and to use effective contraception.",0.9416531920433044,0.8387096774193548,0.772093023255814,0.8202764976958526
+" Diarrhea: Severe diarrhea, including dehydration, acute kidney injury, and 
+death, has been reported. Administer antidiarrheal treatment as clinically 
+indicated. Interrupt dose, then dose reduce, or permanently discontinue 
+TUKYSA based on severity. (2.2, 5.1) 
+ Hepatotoxicity: Severe hepatotoxicity has been reported on TUKYSA. 
+Monitor ALT, AST and bilirubin prior to starting TUKYSA, every 3 weeks 
+during treatment and as clinically indicated. Interrupt dose, then dose 
+reduce, or permanently discontinue TUKYSA based on severity. (2.2, 5.2) 
+ Embryo-Fetal Toxicity: TUKYSA can cause fetal harm. Advise patients of 
+potential risk to a fetus and to use effective contraception. (5.3, 8.1, 8.3) 
+Also, refer to the Full Prescribing Information of trastuzumab and 
+capecitabine for pregnancy and contraception information.","The warnings to watch for are:
+
+Diarrhea: Severe diarrhea, including dehydration, acute kidney injury, and death.
+Hepatotoxicity: Severe hepatotoxicity.
+Embryo-Fetal Toxicity: TUKYSA can cause fetal harm.",0.8001240491867065,0.326530612244898,0.24827586206896549,0.2857142857142857
+"The most common adverse reactions (?20%) with TUKYSA in 
+combination with trastuzumab and capecitabine in patients with 
+metastatic breast cancer are diarrhea, palmar-plantar erythrodysesthesia, 
+nausea, hepatotoxicity, vomiting, stomatitis, decreased appetite, anemia, 
+and rash. (6.1) 
+ 
+The most common adverse reactions (?20%) with TUKYSA in 
+combination with trastuzumab in patients with unresectable or metastatic 
+colorectal cancer are diarrhea, fatigue, rash, nausea, abdominal pain, 
+infusion related reactions, and pyrexia. 
+To report SUSPECTED ADVERSE REACTIONS, contact Seagen at 1­
+855-4SEAGEN or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.","The most common adverse reactions with TUKYSA in combination with trastuzumab and capecitabine in patients with metastatic breast cancer are diarrhea, palmar-plantar erythrodysesthesia, nausea, hepatotoxicity, vomiting, stomatitis, decreased appetite, anemia, and rash. The most common adverse reactions with TUKYSA in combination with trastuzumab in patients with unresectable or metastatic colorectal cancer are diarrhea, fatigue, rash, nausea, abdominal pain, infusion-related reactions, and pyrexia.",0.9384841322898865,0.8258064516129032,0.7843137254901961,0.8258064516129032
+"Strong CYP3A Inducers or Moderate CYP2C8 Inducers: Avoid 
+concomitant use. (7.1) 
+ Strong CYP2C8 Inhibitors: Avoid concomitant use; reduce TUKYSA dose 
+if concomitant use cannot be avoided. (2.4, 7.1) 
+ CYP3A Substrates: Avoid concomitant use with CYP3A substrates, where 
+minimal concentration changes may lead to serious or life-threatening 
+toxicities. (7.2) 
+ P-gp Substrates: Consider reducing the dose of P-gp substrates, where 
+minimal concentration changes may lead to serious or life-threatening 
+toxicities. (7.2)","The document states the following drug interactions for TUKYSA:
+
+Avoid concomitant use with Strong CYP3A Inducers or Moderate CYP2C8 Inducers.
+Avoid concomitant use with Strong CYP2C8 Inhibitors; reduce TUKYSA dose if concomitant use cannot be avoided.
+Avoid concomitant use with CYP3A Substrates, where minimal concentration changes may lead to serious or life-threatening toxicities.
+Consider reducing the dose of P-gp Substrates, where minimal concentration changes may lead to serious or life-threatening toxicities.",0.8046135306358337,0.8289473684210527,0.7600000000000001,0.7894736842105263
+"AFINITOR is a kinase inhibitor indicated for the treatment of: 
+  Postmenopausal women with advanced hormone receptor-positive, HER2­
+negative breast cancer in combination with exemestane after failure of 
+treatment with letrozole or anastrozole. (1.1) 
+  Adults with progressive neuroendocrine tumors of pancreatic origin 
+(PNET) and adults with progressive, well-differentiated, non-functional 
+neuroendocrine tumors (NET) of gastrointestinal (GI) or lung origin that 
+are unresectable, locally advanced or metastatic. 
+Limitations of Use: AFINITOR is not indicated for the treatment of 
+patients with functional carcinoid tumors. (1.2) 
+  Adults with advanced renal cell carcinoma (RCC) after failure of treatment 
+with sunitinib or sorafenib. (1.3) 
+  Adults with renal angiomyolipoma and tuberous sclerosis complex (TSC), 
+not requiring immediate surgery. (1.4) 
+AFINITOR and AFINITOR DISPERZ are kinase inhibitors indicated for the 
+treatment of adult and pediatric patients aged 1 year and older with TSC who 
+have subependymal giant cell astrocytoma (SEGA) that requires therapeutic 
+intervention but cannot be curatively resected. (1.5) 
+AFINITOR DISPERZ is a kinase inhibitor indicated for the adjunctive 
+treatment of adult and pediatric patients aged 2 years and older with TSC-
+associated partial-onset seizures. (1.6)","The document provides the following indications for the use of AFINITOR:
+
+Postmenopausal women with advanced hormone receptor-positive, HER2-negative breast cancer in combination with exemestane after failure of treatment with letrozole or anastrozole.
+Adults with progressive neuroendocrine tumors of pancreatic origin (PNET) and adults with progressive, well-differentiated, non-functional neuroendocrine tumors (NET) of gastrointestinal (GI) or lung origin that are unresectable, locally advanced, or metastatic.
+Adults with advanced renal cell carcinoma (RCC) after failure of treatment with sunitinib or sorafenib.
+Adults with renal angiomyolipoma and tuberous sclerosis complex (TSC), not requiring immediate surgery.
+Adult and pediatric patients aged 1 year and older with TSC who have subependymal giant cell astrocytoma (SEGA) that requires therapeutic intervention but cannot be curatively resected.
+Adult and pediatric patients aged 2 years and older with TSC-associated partial-onset seizures.",0.8299083709716797,0.8184615384615385,0.7492260061919505,0.7938461538461538
+"AFINITOR is a kinase inhibitor indicated for the treatment of: 
+  Postmenopausal women with advanced hormone receptor-positive, HER2­
+negative breast cancer in combination with exemestane after failure of 
+treatment with letrozole or anastrozole. (1.1) 
+  Adults with progressive neuroendocrine tumors of pancreatic origin 
+(PNET) and adults with progressive, well-differentiated, non-functional 
+neuroendocrine tumors (NET) of gastrointestinal (GI) or lung origin that 
+are unresectable, locally advanced or metastatic. 
+Limitations of Use: AFINITOR is not indicated for the treatment of 
+patients with functional carcinoid tumors. (1.2) 
+  Adults with advanced renal cell carcinoma (RCC) after failure of treatment 
+with sunitinib or sorafenib. (1.3) 
+  Adults with renal angiomyolipoma and tuberous sclerosis complex (TSC), 
+not requiring immediate surgery. (1.4) 
+AFINITOR and AFINITOR DISPERZ are kinase inhibitors indicated for the 
+treatment of adult and pediatric patients aged 1 year and older with TSC who 
+have subependymal giant cell astrocytoma (SEGA) that requires therapeutic 
+intervention but cannot be curatively resected. (1.5) 
+AFINITOR DISPERZ is a kinase inhibitor indicated for the adjunctive 
+treatment of adult and pediatric patients aged 2 years and older with TSC-
+associated partial-onset seizures. (1.6)","The document provides information on the usage of AFINITOR:
+
+AFINITOR is indicated for the treatment of various conditions such as advanced breast cancer, neuroendocrine tumors, renal cell carcinoma, renal angiomyolipoma, and certain conditions associated with tuberous sclerosis complex.",0.7443077564239502,0.23893805309734517,0.11607142857142858,0.18584070796460178
+"Do not combine AFINITOR and AFINITOR DISPERZ to achieve the total 
+daily dose. (2.1) 
+Modify the dose for patients with hepatic impairment or for patients taking 
+drugs that inhibit or induce P-glycoprotein (P-gp) and CYP3A4. (2.1) 
+Breast Cancer: 
+ 10 mg orally once daily. (2.2) 
+NET: 
+  10 mg orally once daily. (2.3) 
+RCC: 
+  10 mg orally once daily. (2.4) 
+TSC-Associated Renal Angiomyolipoma: 
+  10 mg orally once daily. (2.5) 
+TSC-Associated SEGA: 
+  4.5 mg/m2 orally once daily; adjust dose to attain trough concentrations of 
+5-15 ng/mL. (2.6, 2.8) 
+TSC-Associated Partial-Onset Seizures: 
+  5 mg/m2 orally once daily; adjust dose to attain trough concentrations of 5­
+15 ng/mL. (2.7, 2.8)","The dosage for AFINITOR varies depending on the condition being treated:
+
+Breast cancer, NET, RCC, TSC-Associated Renal Angiomyolipoma: 10 mg orally once daily.
+TSC-Associated SEGA: 4.5 mg/m2 orally once daily; adjust dose to attain trough concentrations of 5-15 ng/mL.
+TSC-Associated Partial-Onset Seizures: 5 mg/m2 orally once daily; adjust dose to attain trough concentrations of 5-15 ng/mL.",0.8560197353363037,0.6185567010309279,0.5208333333333334,0.5979381443298969
+"Non-Infectious Pneumonitis: Monitor for clinical symptoms or radiological 
+changes. Withhold or permanently discontinue based on severity. (2.9, 5.1) 
+  Infections: Monitor for signs and symptoms of infection. Withhold or 
+permanently discontinue based on severity. (2.9, 5.2) 
+  Severe Hypersensitivity Reactions: Permanently discontinue for clinically 
+significant hypersensitivity. (5.3) 
+  Angioedema: Patients taking concomitant angiotensin-converting-enzyme 
+(ACE) inhibitors may be at increased risk for angioedema. Permanently 
+discontinue for angioedema. (5.4, 7.2) 
+  Stomatitis: Initiate dexamethasone alcohol-free mouthwash when starting 
+treatment. (5.5, 6.1) 
+  Renal Failure: Monitor renal function prior to treatment and periodically 
+thereafter. (5.6) 
+  Risk of Impaired Wound Healing: Withhold for at least 1 week prior to 
+elective surgery. Do not administer for at least 2 weeks following major 
+surgery and until adequate wound healing. The safety of resumption of 
+treatment after resolution of wound healing complications has not been 
+established. (5.7) 
+  Geriatric Patients: Monitor and adjust dose for adverse reactions. (5.8) 
+  Metabolic Disorders: Monitor serum glucose and lipids prior to treatment 
+and periodically thereafter. Withhold or permanently discontinue based on 
+severity. (2.9, 5.9) 
+  Myelosuppression: Monitor hematologic parameters prior to treatment and 
+periodically thereafter. Withhold or permanently discontinue based on 
+severity. (2.9, 5.10) 
+  Risk of Infection or Reduced Immune Response with Vaccination: Avoid 
+live vaccines and close contact with those who have received live vaccines. 
+Complete recommended childhood vaccinations prior to starting treatment. 
+(5.11) 
+  Radiation Sensitization and Radiation Recall: Severe radiation reactions 
+may occur. (5.12, 6.2) 
+  Embryo-Fetal Toxicity: Can cause fetal harm. Advise patients of 
+reproductive potential of the potential risk to a fetus and to use effective 
+contraception. (5.13, 8.1, 8.3)","The warnings for AFINITOR include non-infectious pneumonitis, infections, severe hypersensitivity reactions, angioedema, stomatitis, renal failure, risk of impaired wound healing, monitoring metabolic disorders, myelosuppression, risk of infection or reduced immune response with vaccination, radiation sensitization and recall, and embryo-fetal toxicity.",0.5591015815734863,0.23456790123456792,0.13664596273291926,0.21604938271604937
+"Non-Infectious Pneumonitis: Monitor for clinical symptoms or radiological 
+changes. Withhold or permanently discontinue based on severity. (2.9, 5.1) 
+  Infections: Monitor for signs and symptoms of infection. Withhold or 
+permanently discontinue based on severity. (2.9, 5.2) 
+  Severe Hypersensitivity Reactions: Permanently discontinue for clinically 
+significant hypersensitivity. (5.3) 
+  Angioedema: Patients taking concomitant angiotensin-converting-enzyme 
+(ACE) inhibitors may be at increased risk for angioedema. Permanently 
+discontinue for angioedema. (5.4, 7.2) 
+  Stomatitis: Initiate dexamethasone alcohol-free mouthwash when starting 
+treatment. (5.5, 6.1) 
+  Renal Failure: Monitor renal function prior to treatment and periodically 
+thereafter. (5.6) 
+  Risk of Impaired Wound Healing: Withhold for at least 1 week prior to 
+elective surgery. Do not administer for at least 2 weeks following major 
+surgery and until adequate wound healing. The safety of resumption of 
+treatment after resolution of wound healing complications has not been 
+established. (5.7) 
+  Geriatric Patients: Monitor and adjust dose for adverse reactions. (5.8) 
+  Metabolic Disorders: Monitor serum glucose and lipids prior to treatment 
+and periodically thereafter. Withhold or permanently discontinue based on 
+severity. (2.9, 5.9) 
+  Myelosuppression: Monitor hematologic parameters prior to treatment and 
+periodically thereafter. Withhold or permanently discontinue based on 
+severity. (2.9, 5.10) 
+  Risk of Infection or Reduced Immune Response with Vaccination: Avoid 
+live vaccines and close contact with those who have received live vaccines. 
+Complete recommended childhood vaccinations prior to starting treatment. 
+(5.11) 
+  Radiation Sensitization and Radiation Recall: Severe radiation reactions 
+may occur. (5.12, 6.2) 
+  Embryo-Fetal Toxicity: Can cause fetal harm. Advise patients of 
+reproductive potential of the potential risk to a fetus and to use effective 
+contraception. (5.13, 8.1, 8.3)","The precautions for AFINITOR include monitoring for non-infectious pneumonitis, infections, severe hypersensitivity reactions, angioedema, stomatitis, renal failure, risk of impaired wound healing, monitoring geriatric patients, metabolic disorders, myelosuppression, risk of infection or reduced immune response with vaccination, radiation sensitization and recall, and embryo-fetal toxicity. It is important to follow the specific guidelines provided in the document for each precaution.",0.5714044570922852,0.2565597667638484,0.1348973607038123,0.2215743440233236
+"Breast cancer, NET, RCC: Most common adverse reactions (incidence 
+? 30%) include stomatitis, infections, rash, fatigue, diarrhea, edema, 
+abdominal pain, nausea, fever, asthenia, cough, headache, and decreased 
+appetite. (6.1) 
+  TSC-Associated Renal Angiomyolipoma: Most common adverse reaction 
+(incidence ? 30%) is stomatitis. (6.1) 
+  TSC-Associated SEGA: Most common adverse reactions (incidence ? 
+30%) are stomatitis and respiratory tract infection. (6.1) 
+  TSC-Associated Partial-Onset Seizures: Most common adverse reaction 
+(incidence ? 30%) is stomatitis. (6.1) 
+To report SUSPECTED ADVERSE REACTIONS, contact Novartis 
+Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA­
+1088 or www.fda.gov/medwatch.","Adverse reactions associated with AFINITOR include stomatitis, infections, rash, fatigue, diarrhea, edema, abdominal pain, nausea, fever, asthenia, cough, headache, decreased appetite, and respiratory tract infection.",0.4928239583969116,0.36507936507936506,0.2903225806451613,0.3492063492063492
+"Breast cancer, NET, RCC: Most common adverse reactions (incidence 
+? 30%) include stomatitis, infections, rash, fatigue, diarrhea, edema, 
+abdominal pain, nausea, fever, asthenia, cough, headache, and decreased 
+appetite. (6.1) 
+  TSC-Associated Renal Angiomyolipoma: Most common adverse reaction 
+(incidence ? 30%) is stomatitis. (6.1) 
+  TSC-Associated SEGA: Most common adverse reactions (incidence ? 
+30%) are stomatitis and respiratory tract infection. (6.1) 
+  TSC-Associated Partial-Onset Seizures: Most common adverse reaction 
+(incidence ? 30%) is stomatitis. (6.1) 
+To report SUSPECTED ADVERSE REACTIONS, contact Novartis 
+Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA­
+1088 or www.fda.gov/medwatch.","The document lists the following common adverse reactions associated with AFINITOR:
+
+Stomatitis
+Infections
+Rash
+Fatigue
+Diarrhea
+Edema
+Abdominal pain
+Nausea
+Fever
+Asthenia
+Cough
+Headache
+Decreased appetite
+It also mentions that the most common adverse reaction for TSC-Associated Renal Angiomyolipoma, TSC-Associated SEGA, and TSC-Associated Partial-Onset Seizures is stomatitis.",0.734249472618103,0.48684210526315785,0.37333333333333335,0.4342105263157895
+"P-gp and strong CYP3A4 inhibitors: Avoid concomitant use. (2.11, 7.1) 
+  P-gp and moderate CYP3A4 inhibitors: Reduce the dose as recommended. 
+(2.11, 7.1) 
+  P-gp and strong CYP3A4 inducers: Increase the dose as recommended. 
+(2.12, 7.1)","The document contains information on drug interactions with AFINITOR:
+
+Avoid concomitant use of P-gp and strong CYP3A4 inhibitors.
+Reduce the dose as recommended when using P-gp and moderate CYP3A4 inhibitors.
+Increase the dose as recommended when using P-gp and strong CYP3A4 inducers.",0.7024482488632202,0.7045454545454545,0.6046511627906977,0.5
+"ARIMIDEX is an aromatase inhibitor indicated for: 
+ 
+Adjuvant treatment of postmenopausal women with hormone receptor-
+positive early breast cancer (1.1) 
+ 
+First-line treatment of postmenopausal women with hormone receptor-
+positive or hormone receptor unknown locally advanced or metastatic 
+breast cancer (1.2) 
+ 
+Treatment of advanced breast cancer in postmenopausal women with 
+disease progression following tamoxifen therapy. Patients with ER-
+negative disease and patients who did not respond to previous tamoxifen 
+therapy rarely responded to ARIMIDEX (1.3)","The indications for ARIMIDEX are:
+
+Adjuvant treatment of postmenopausal women with hormone receptor-positive early breast cancer.
+First-line treatment of postmenopausal women with hormone receptor-positive or hormone receptor unknown locally advanced or metastatic breast cancer.
+Treatment of advanced breast cancer in postmenopausal women with disease progression following tamoxifen therapy.",0.8873975276947021,0.744186046511628,0.6771653543307087,0.7286821705426356
+"ARIMIDEX is an aromatase inhibitor indicated for: 
+ 
+Adjuvant treatment of postmenopausal women with hormone receptor-
+positive early breast cancer (1.1) 
+ 
+First-line treatment of postmenopausal women with hormone receptor-
+positive or hormone receptor unknown locally advanced or metastatic 
+breast cancer (1.2) 
+ 
+Treatment of advanced breast cancer in postmenopausal women with 
+disease progression following tamoxifen therapy. Patients with ER-
+negative disease and patients who did not respond to previous tamoxifen 
+therapy rarely responded to ARIMIDEX (1.3)","The usage of ARIMIDEX includes adjuvant treatment of postmenopausal women with hormone receptor-positive early breast cancer, first-line treatment of postmenopausal women with hormone receptor-positive or hormone receptor unknown locally advanced or metastatic breast cancer, and treatment of advanced breast cancer in postmenopausal women with disease progression following tamoxifen therapy.",0.8943331837654114,0.7384615384615384,0.671875,0.7230769230769231
+One 1 mg tablet taken once daily (2.1),One 1 mg tablet taken once daily.,0.9504976272583008,0.8750000000000001,0.8571428571428571,0.8750000000000001
+"In women with pre-existing ischemic heart disease, an increased 
+incidence of ischemic cardiovascular events occurred with ARIMIDEX 
+use compared to tamoxifen use. Consider risks and benefits. (5.1, 6.1) 
+ 
+Decreases in bone mineral density may occur. Consider bone mineral 
+density monitoring. (5.2, 6.1) 
+ 
+Increases in total cholesterol may occur. Consider cholesterol 
+monitoring. (5.3, 6.1) 
+ 
+Embryo-Fetal Toxicity: ARIMIDEX may cause fetal harm. Advise 
+patients of the potential risk to a fetus and to use effective contraception. 
+(5.4, 8.1)","The warnings for ARIMIDEX include:
+
+Increased incidence of ischemic cardiovascular events in women with pre-existing ischemic heart disease compared to tamoxifen use. Risks and benefits should be considered.
+Decreases in bone mineral density may occur, so bone mineral density monitoring should be considered.
+Increases in total cholesterol may occur, so cholesterol monitoring should be considered.
+ARIMIDEX may cause fetal harm, so patients should be advised of the potential risk to a fetus and to use effective contraception.",0.9410370588302612,0.7195121951219512,0.580246913580247,0.6341463414634145
+"In women with pre-existing ischemic heart disease, an increased 
+incidence of ischemic cardiovascular events occurred with ARIMIDEX 
+use compared to tamoxifen use. Consider risks and benefits. (5.1, 6.1) 
+ 
+Decreases in bone mineral density may occur. Consider bone mineral 
+density monitoring. (5.2, 6.1) 
+ 
+Increases in total cholesterol may occur. Consider cholesterol 
+monitoring. (5.3, 6.1) 
+ 
+Embryo-Fetal Toxicity: ARIMIDEX may cause fetal harm. Advise 
+patients of the potential risk to a fetus and to use effective contraception. 
+(5.4, 8.1)","The precautions for ARIMIDEX include considerations for women with pre-existing ischemic heart disease, monitoring of bone mineral density, monitoring of total cholesterol levels, and advising patients about the potential risk of embryo-fetal toxicity and the need for effective contraception.",0.8513156175613403,0.44094488188976383,0.24,0.33070866141732286
+"In the early breast cancer (ATAC) study, the most common (occurring with an 
+incidence of ?10%) side effects occurring in women taking ARIMIDEX 
+included: hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, 
+hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, 
+back pain, insomnia, headache, peripheral edema and lymphedema, regardless 
+of causality. (6.1) 
+In the advanced breast cancer studies, the most common (occurring with an 
+incidence of >10%) side effects occurring in women taking ARIMIDEX 
+included: hot flashes, nausea, asthenia, pain, headache, back pain, bone pain, 
+increased cough, dyspnea, pharyngitis and peripheral edema. (6.1) 
+To report SUSPECTED ADVERSE REACTIONS, contact ANI 
+Pharmaceuticals, Inc. at 1-800-308-6755 or FDA at 1-800-FDA-1088 or 
+www.fda.gov/medwatch.","In the document, adverse reactions to ARIMIDEX include hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, headache, peripheral edema, lymphedema, bone pain, increased cough, dyspnea.",0.9016413688659668,0.4258064516129032,0.33986928104575165,0.3870967741935483
+"In the early breast cancer (ATAC) study, the most common (occurring with an 
+incidence of ?10%) side effects occurring in women taking ARIMIDEX 
+included: hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, 
+hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, 
+back pain, insomnia, headache, peripheral edema and lymphedema, regardless 
+of causality. (6.1) 
+In the advanced breast cancer studies, the most common (occurring with an 
+incidence of >10%) side effects occurring in women taking ARIMIDEX 
+included: hot flashes, nausea, asthenia, pain, headache, back pain, bone pain, 
+increased cough, dyspnea, pharyngitis and peripheral edema. (6.1) 
+To report SUSPECTED ADVERSE REACTIONS, contact ANI 
+Pharmaceuticals, Inc. at 1-800-308-6755 or FDA at 1-800-FDA-1088 or 
+www.fda.gov/medwatch.","In the document, the side effects of ARIMIDEX include hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, headache, peripheral edema and lymphedema for women taking ARIMIDEX for early breast cancer. For women taking ARIMIDEX for advanced breast cancer, the side effects include hot flashes, nausea, asthenia, pain, headache, back pain, bone pain, increased cough, dyspnea, pharyngitis, and peripheral edema.",0.9370400905609131,0.6455026455026456,0.5240641711229946,0.5502645502645502
+"Tamoxifen: Do not use in combination with ARIMIDEX. No additional 
+benefit seen over tamoxifen monotherapy. (7.1, 14.1) 
+ 
+Estrogen-containing products: Combination use may diminish activity of 
+ARIMIDEX. (7.2)","Tamoxifen should not be used in combination with ARIMIDEX as no additional benefit is seen over tamoxifen monotherapy. Additionally, combination use of ARIMIDEX with estrogen-containing products may diminish the activity of ARIMIDEX.",0.9758470058441162,0.71875,0.45161290322580644,0.65625
+"AROMASIN is an aromatase inhibitor indicated for: 
+ 
+adjuvant treatment of postmenopausal women with estrogen-receptor 
+positive early breast cancer who have received two to three years of 
+tamoxifen and are switched to AROMASIN for completion of a total of 
+five consecutive years of adjuvant hormonal therapy (14.1). 
+ 
+treatment of advanced breast cancer in postmenopausal women whose 
+disease has progressed following tamoxifen therapy (14.2).","The indications for AROMASIN are adjuvant treatment of postmenopausal women with estrogen-receptor positive early breast cancer who have received two to three years of tamoxifen and are switched to AROMASIN for completion of a total of five consecutive years of adjuvant hormonal therapy, as well as treatment of advanced breast cancer in postmenopausal women whose disease has progressed following tamoxifen therapy.",0.9245736598968506,0.8818897637795274,0.8319999999999999,0.8661417322834646
+"AROMASIN is an aromatase inhibitor indicated for: 
+ 
+adjuvant treatment of postmenopausal women with estrogen-receptor 
+positive early breast cancer who have received two to three years of 
+tamoxifen and are switched to AROMASIN for completion of a total of 
+five consecutive years of adjuvant hormonal therapy (14.1). 
+ 
+treatment of advanced breast cancer in postmenopausal women whose 
+disease has progressed following tamoxifen therapy (14.2).","The document states that the usage of AROMASIN is for the adjuvant treatment of postmenopausal women with estrogen-receptor positive early breast cancer who have received two to three years of tamoxifen and are switched to AROMASIN for completion of a total of five consecutive years of adjuvant hormonal therapy, as well as for the treatment of advanced breast cancer in postmenopausal women whose disease has progressed following tamoxifen therapy.",0.9090012907981873,0.8444444444444444,0.7969924812030075,0.8444444444444444
+Recommended Dose: One 25 mg tablet once daily after a meal (2.1).,The dosage for AROMASIN is one 25 mg tablet once daily after a meal.,0.7121189832687378,0.6666666666666666,0.64,0.6666666666666666
+"Reductions in bone mineral density (BMD) over time are seen with 
+exemestane use (5.1). 
+ 
+Routine assessment of 25-hydroxy vitamin D levels prior to the start of 
+aromatase inhibitor treatment should be performed (5.2). 
+ 
+Embryo-Fetal Toxicity: Can cause fetal harm. Advise females of 
+reproductive potential of the potential risk to a fetus and to use effective 
+contraception (5.6, 8.1, 8.3).","The warnings for AROMASIN include reductions in bone mineral density over time with exemestane use, the recommendation for routine assessment of 25-hydroxy vitamin D levels prior to starting aromatase inhibitor treatment, and the potential for embryo-fetal toxicity, advising females of reproductive potential to use effective contraception.",0.8397129774093628,0.6666666666666667,0.48214285714285715,0.5964912280701754
+"Reductions in bone mineral density (BMD) over time are seen with 
+exemestane use (5.1). 
+ 
+Routine assessment of 25-hydroxy vitamin D levels prior to the start of 
+aromatase inhibitor treatment should be performed (5.2). 
+ 
+Embryo-Fetal Toxicity: Can cause fetal harm. Advise females of 
+reproductive potential of the potential risk to a fetus and to use effective 
+contraception (5.6, 8.1, 8.3).", Embryo-Fetal Toxicity: Can cause fetal harm. Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception.,0.5259548425674438,0.5333333333333333,0.5227272727272727,0.5333333333333333
+"Early breast cancer: Adverse reactions occurring in ?10% of patients in 
+any treatment group (AROMASIN vs. tamoxifen) were hot flushes (21% 
+vs. 20%), fatigue (16% vs. 15%), arthralgia (15% vs. 9%), headache (13% 
+vs. 11%), insomnia (12% vs. 9%), and increased sweating (12% vs. 10%). 
+Discontinuation rates due to AEs were similar between AROMASIN and 
+tamoxifen (6% vs. 5%). Incidences of cardiac ischemic events 
+(myocardial infarction, angina, and myocardial ischemia) were 
+AROMASIN 1.6%, tamoxifen 0.6%. Incidence of cardiac failure: 
+AROMASIN 0.4%, tamoxifen 0.3% (6, 6.1). 
+ 
+Advanced breast cancer: Most common adverse reactions were mild to 
+moderate and included hot flushes (13% vs. 5%), nausea (9% vs. 5%), 
+fatigue (8% vs. 10%), increased sweating (4% vs. 8%), and increased 
+appetite (3% vs. 6%) for AROMASIN and megestrol acetate, respectively 
+(6, 6.1). 
+To report SUSPECTED ADVERSE REACTIONS, contact Pfizer Inc at 
+1-800-438-1985 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.","The document lists the adverse reactions associated with AROMASIN use in patients with early breast cancer and advanced breast cancer. These include hot flushes, fatigue, arthralgia, headache, insomnia, increased sweating, nausea, and increased appetite, among others.",0.7497916221618652,0.2436548223350254,0.0923076923076923,0.16243654822335024
+"Early breast cancer: Adverse reactions occurring in ?10% of patients in 
+any treatment group (AROMASIN vs. tamoxifen) were hot flushes (21% 
+vs. 20%), fatigue (16% vs. 15%), arthralgia (15% vs. 9%), headache (13% 
+vs. 11%), insomnia (12% vs. 9%), and increased sweating (12% vs. 10%). 
+Discontinuation rates due to AEs were similar between AROMASIN and 
+tamoxifen (6% vs. 5%). Incidences of cardiac ischemic events 
+(myocardial infarction, angina, and myocardial ischemia) were 
+AROMASIN 1.6%, tamoxifen 0.6%. Incidence of cardiac failure: 
+AROMASIN 0.4%, tamoxifen 0.3% (6, 6.1). 
+ 
+Advanced breast cancer: Most common adverse reactions were mild to 
+moderate and included hot flushes (13% vs. 5%), nausea (9% vs. 5%), 
+fatigue (8% vs. 10%), increased sweating (4% vs. 8%), and increased 
+appetite (3% vs. 6%) for AROMASIN and megestrol acetate, respectively 
+(6, 6.1). 
+To report SUSPECTED ADVERSE REACTIONS, contact Pfizer Inc at 
+1-800-438-1985 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.","The document lists the following common side effects of AROMASIN:
+
+For early breast cancer: hot flushes, fatigue, arthralgia, headache, insomnia, increased sweating
+For advanced breast cancer: hot flushes, nausea, fatigue, increased sweating, increased appetite",0.6918412446975708,0.26666666666666666,0.09326424870466321,0.22564102564102564
+"Strong CYP 3A4 inducers: Concomitant use of strong CYP 3A4 inducers 
+decreases exemestane exposure. Increase the AROMASIN dose to 50 mg (2.2, 
+7).",The document states that strong CYP 3A4 inducers can decrease exemestane exposure. It recommends increasing the AROMASIN dose to 50 mg when used concomitantly with strong CYP 3A4 inducers.,0.9507583379745483,0.6037735849056604,0.47058823529411764,0.4528301886792453
+"DATROWAY is a Trop-2-directed antibody and topoisomerase inhibitor 
+conjugate indicated for the treatment of adult patients with 
+unresectable or metastatic, hormone receptor (HR)-positive, human 
+epidermal growth factor receptor 2 (HER2)-negative (IHC 0, IHC 1+ or 
+IHC 2+/ISH-) breast cancer who have received prior endocrine-based 
+therapy and chemotherapy for unresectable or metastatic disease. (1)","Indications: DATROWAY is indicated for the treatment of adult patients with unresectable or metastatic, hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative (IHC 0, IHC 1+ or IHC 2+/ISH-) breast cancer who have received prior endocrine-based therapy and chemotherapy for unresectable or metastatic disease.",0.9053250551223755,0.8990825688073395,0.8785046728971961,0.8990825688073395
+"DATROWAY is a Trop-2-directed antibody and topoisomerase inhibitor 
+conjugate indicated for the treatment of adult patients with 
+unresectable or metastatic, hormone receptor (HR)-positive, human 
+epidermal growth factor receptor 2 (HER2)-negative (IHC 0, IHC 1+ or 
+IHC 2+/ISH-) breast cancer who have received prior endocrine-based 
+therapy and chemotherapy for unresectable or metastatic disease. (1)","The document states that DATROWAY is indicated for the treatment of adult patients with unresectable or metastatic, hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative breast cancer who have received prior endocrine-based therapy and chemotherapy for unresectable or metastatic disease.",0.8958041667938232,0.7884615384615385,0.7450980392156864,0.7884615384615385
+"For intravenous infusion only. Do not administer as an intravenous 
+push or bolus. DO NOT use Sodium Chloride Injection, USP. (2.4) 
+? Premedicate for prevention of infusion reactions and nausea and 
+vomiting. (2.2) 
+? The recommended dosage of DATROWAY is 6 mg/kg given as an 
+intravenous infusion once every 3 weeks (21-day cycle) until 
+disease progression or unacceptable toxicity. (2.2, 2.3)",The recommended dosage of DATROWAY is 6 mg/kg given as an intravenous infusion once every 3 weeks (21-day cycle) until disease progression or unacceptable toxicity.,0.8891259431838989,0.5869565217391305,0.5777777777777777,0.5869565217391305
+"Interstitial Lung Disease (ILD) and Pneumonitis: DATROWAY can 
+cause severe and fatal cases of ILD/pneumonitis. Monitor for new or 
+worsening signs and symptoms of ILD/pneumonitis. If 
+ILD/pneumonitis is suspected, withhold DATROWAY and initiate 
+corticosteroids. Permanently discontinue DATROWAY in patients 
+with confirmed Grade 2 or higher ILD/pneumonitis. (5.1) 
+? Ocular Adverse Reactions: DATROWAY can cause ocular adverse 
+reactions including dry eye, keratitis, blepharitis and meibomian 
+gland dysfunction, increased lacrimation, conjunctivitis, and blurred 
+vision. Monitor patients for ocular adverse reactions during 
+treatment with DATROWAY. Advise patients to use preservative-
+free lubricating eye drops and to avoid using contact lenses during 
+treatment with DATROWAY. Dose delay, dose reduce, or 
+permanently discontinue DATROWAY based on the severity of 
+ocular adverse reactions. Refer patients to an eye care professional 
+for any new or worsening ocular signs and symptoms. (2.2, 2.3, 5.2) 
+? Stomatitis/Oral Mucositis: DATROWAY can cause stomatitis, 
+including mouth ulcers and oral mucositis. Advise patients to use a 
+steroid-containing mouthwash when starting treatment and to hold 
+ice chips or ice water in mouth during the infusion of DATROWAY. 
+Based on the severity of the adverse reaction, withhold, dose 
+reduce, or permanently discontinue DATROWAY. (2.2, 2.3, 5.3) 
+? Embryo-Fetal Toxicity: DATROWAY can cause fetal harm. Advise 
+patients of potential risk to a fetus and to use effective 
+contraception. (5.4, 8.1, 8.3)","The warnings for DATROWAY include Interstitial Lung Disease (ILD) and Pneumonitis, Ocular Adverse Reactions, Stomatitis/Oral Mucositis, and Embryo-Fetal Toxicity.",0.6653692126274109,0.15139442231075695,0.08835341365461848,0.12749003984063745
+"Interstitial Lung Disease (ILD) and Pneumonitis: DATROWAY can 
+cause severe and fatal cases of ILD/pneumonitis. Monitor for new or 
+worsening signs and symptoms of ILD/pneumonitis. If 
+ILD/pneumonitis is suspected, withhold DATROWAY and initiate 
+corticosteroids. Permanently discontinue DATROWAY in patients 
+with confirmed Grade 2 or higher ILD/pneumonitis. (5.1) 
+? Ocular Adverse Reactions: DATROWAY can cause ocular adverse 
+reactions including dry eye, keratitis, blepharitis and meibomian 
+gland dysfunction, increased lacrimation, conjunctivitis, and blurred 
+vision. Monitor patients for ocular adverse reactions during 
+treatment with DATROWAY. Advise patients to use preservative-
+free lubricating eye drops and to avoid using contact lenses during 
+treatment with DATROWAY. Dose delay, dose reduce, or 
+permanently discontinue DATROWAY based on the severity of 
+ocular adverse reactions. Refer patients to an eye care professional 
+for any new or worsening ocular signs and symptoms. (2.2, 2.3, 5.2) 
+? Stomatitis/Oral Mucositis: DATROWAY can cause stomatitis, 
+including mouth ulcers and oral mucositis. Advise patients to use a 
+steroid-containing mouthwash when starting treatment and to hold 
+ice chips or ice water in mouth during the infusion of DATROWAY. 
+Based on the severity of the adverse reaction, withhold, dose 
+reduce, or permanently discontinue DATROWAY. (2.2, 2.3, 5.3) 
+? Embryo-Fetal Toxicity: DATROWAY can cause fetal harm. Advise 
+patients of potential risk to a fetus and to use effective 
+contraception. (5.4, 8.1, 8.3)","The precautions for DATROWAY include monitoring for interstitial lung disease (ILD) and pneumonitis, monitoring for ocular adverse reactions such as dry eye and blurred vision, advising patients to use a steroid-containing mouthwash for stomatitis, and cautioning about embryo-fetal toxicity and the need for effective contraception.",0.6395439505577087,0.25270758122743686,0.14545454545454542,0.20938628158844763
+"The most common adverse reactions (?20%), including laboratory 
+abnormalities, were stomatitis, nausea, fatigue, decreased leukocytes, 
+decreased calcium, alopecia, decreased lymphocytes, decreased 
+hemoglobin, constipation, decreased neutrophils, dry eye, vomiting, 
+increased ALT, keratitis, increased AST, and increased alkaline 
+phosphatase. (6.1) 
+To report SUSPECTED ADVERSE REACTIONS, contact Daiichi
+Sankyo, Inc. at 1-877-437-7763 or FDA at 1-800-FDA-1088 or 
+www.fda.gov/medwatch.","The most common adverse reactions associated with DATROWAY include stomatitis, nausea, fatigue, decreased leukocytes, and other laboratory abnormalities such as decreased calcium, alopecia, and dry eye.",0.631883442401886,0.3956043956043956,0.2696629213483146,0.3296703296703296
+"The most common adverse reactions (?20%), including laboratory 
+abnormalities, were stomatitis, nausea, fatigue, decreased leukocytes, 
+decreased calcium, alopecia, decreased lymphocytes, decreased 
+hemoglobin, constipation, decreased neutrophils, dry eye, vomiting, 
+increased ALT, keratitis, increased AST, and increased alkaline 
+phosphatase. (6.1) 
+To report SUSPECTED ADVERSE REACTIONS, contact Daiichi
+Sankyo, Inc. at 1-877-437-7763 or FDA at 1-800-FDA-1088 or 
+www.fda.gov/medwatch.","he document contains information about the side effects of DATROWAY. The common adverse reactions (?20%) include stomatitis, nausea, fatigue, decreased leukocytes, decreased calcium, alopecia, decreased lymphocytes, decreased hemoglobin, constipation, decreased neutrophils, dry eye, vomiting, increased ALT, keratitis, increased AST, and increased alkaline phosphatase.",0.5982787609100342,0.5925925925925926,0.5471698113207547,0.5925925925925926
+"PIQRAY is a kinase inhibitor indicated in combination with fulvestrant for the 
+treatment of adults with hormone receptor (HR)-positive, human epidermal 
+growth factor receptor 2 (HER2)-negative, PIK3CA-mutated, advanced or 
+metastatic breast cancer as detected by an FDA-approved test following 
+progression on or after an endocrine-based regimen. (1)","The indications for PIQRAY are in combination with fulvestrant for the treatment of adults with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, PIK3CA-mutated, advanced or metastatic breast cancer as detected by an FDA-approved test following progression on or after an endocrine-based regimen.",0.9218261241912842,0.9019607843137256,0.8799999999999999,0.9019607843137256
+"PIQRAY is a kinase inhibitor indicated in combination with fulvestrant for the 
+treatment of adults with hormone receptor (HR)-positive, human epidermal 
+growth factor receptor 2 (HER2)-negative, PIK3CA-mutated, advanced or 
+metastatic breast cancer as detected by an FDA-approved test following 
+progression on or after an endocrine-based regimen. (1)","PIQRAY is a kinase inhibitor indicated in combination with fulvestrant for the treatment of adults with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, PIK3CA-mutated, advanced or metastatic breast cancer as detected by an FDA-approved test following progression on or after an endocrine-based regimen.",0.9988735914230347,0.9902912621359222,0.99009900990099,0.9902912621359222
+"Recommended Dose: 300 mg (two 150 mg tablets) taken orally once daily 
+with food. (2.2) 
+ For adverse reactions, consider dose interruption, dose reduction, or 
+discontinuation. (2.3)",Recommended Dose: 300 mg (two 150 mg tablets) taken orally once daily with food.,0.9527688026428223,0.6666666666666666,0.65,0.6666666666666666
+"Severe Hypersensitivity: Permanently discontinue PIQRAY. Promptly 
+initiate appropriate treatment. (5.1) 
+ Severe Cutaneous Adverse Reactions (SCARs): PIQRAY can cause 
+SCARs, including Stevens-Johnson syndrome (SJS), erythema multiforme 
+(EM), toxic epidermal necrolysis (TEN), and drug reaction with 
+eosinophilia and systemic symptoms (DRESS). Interrupt PIQRAY for 
+signs or symptoms of SCARs. Permanently discontinue PIQRAY if 
+SCARs are confirmed. (5.2) 
+ Hyperglycemia: PIQRAY can cause severe hyperglycemia, in some cases 
+associated with hyperglycemic hyperosmolar non-ketotic syndrome 
+(HHNKS) or ketoacidosis. Before initiating treatment with PIQRAY, test 
+fasting plasma glucose (FPG), HbA1c, and optimize blood glucose. 
+Consider premedication with metformin prior to the initiation of PIQRAY 
+based on patient risk factors for hyperglycemia, gastrointestinal tolerability, 
+and clinical situation. Use of metformin premedication prior to the 
+initiation of PIQRAY decreases the incidence and severity of 
+hyperglycemia, but increases the incidence and severity of nausea, 
+vomiting, and diarrhea adverse reactions. After initiating treatment, 
+monitor FPG and HbA1c periodically. Initiate or optimize anti­
+hyperglycemic medications as clinically indicated. Interrupt, reduce dose, 
+or discontinue PIQRAY if severe hyperglycemia occurs. (2.3, 5.3, 6.1) 
+ Pneumonitis: PIQRAY can cause severe pneumonitis and interstitial lung 
+disease. Monitor for clinical symptoms or radiological changes. Interrupt or 
+discontinue PIQRAY if severe pneumonitis occurs. (2.3, 5.4) 
+ Diarrhea or Colitis: PIQRAY causes diarrhea in most patients and may be 
+severe, resulting in dehydration and acute kidney injury. Advise patients to 
+start antidiarrheal treatment, increase oral fluids, and notify their healthcare 
+provider if diarrhea occurs. 
+Colitis has been reported in patients treated with PIQRAY. Monitor for 
+diarrhea and additional symptoms of colitis, including abdominal pain and 
+mucus or blood in stool. 
+Interrupt, reduce dose, or discontinue PIQRAY if severe diarrhea or colitis 
+occurs. Patients with colitis may require additional treatment, such as 
+enteric-acting and/or systemic steroids. (2.3, 5.5, 6.2) 
+ Embryo-Fetal Toxicity: PIQRAY can cause fetal harm. Advise patients of 
+potential risk to a fetus and to use effective contraception. (5.6, 8.1, 8.3) 
+Refer to the Full Prescribing Information of fulvestrant for pregnancy and 
+contraception information.","The warnings for PIQRAY include Severe Hypersensitivity, Severe Cutaneous Adverse Reactions (SCARs) such as Stevens-Johnson syndrome, Erythema Multiforme, Toxic Epidermal Necrolysis, and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), Hyperglycemia, Pneumonitis, Diarrhea or Colitis, and Embryo-Fetal Toxicity.",0.7777546644210815,0.1989528795811518,0.12105263157894734,0.17277486910994766
+"Severe Hypersensitivity: Permanently discontinue PIQRAY. Promptly 
+initiate appropriate treatment. (5.1) 
+ Severe Cutaneous Adverse Reactions (SCARs): PIQRAY can cause 
+SCARs, including Stevens-Johnson syndrome (SJS), erythema multiforme 
+(EM), toxic epidermal necrolysis (TEN), and drug reaction with 
+eosinophilia and systemic symptoms (DRESS). Interrupt PIQRAY for 
+signs or symptoms of SCARs. Permanently discontinue PIQRAY if 
+SCARs are confirmed. (5.2) 
+ Hyperglycemia: PIQRAY can cause severe hyperglycemia, in some cases 
+associated with hyperglycemic hyperosmolar non-ketotic syndrome 
+(HHNKS) or ketoacidosis. Before initiating treatment with PIQRAY, test 
+fasting plasma glucose (FPG), HbA1c, and optimize blood glucose. 
+Consider premedication with metformin prior to the initiation of PIQRAY 
+based on patient risk factors for hyperglycemia, gastrointestinal tolerability, 
+and clinical situation. Use of metformin premedication prior to the 
+initiation of PIQRAY decreases the incidence and severity of 
+hyperglycemia, but increases the incidence and severity of nausea, 
+vomiting, and diarrhea adverse reactions. After initiating treatment, 
+monitor FPG and HbA1c periodically. Initiate or optimize anti­
+hyperglycemic medications as clinically indicated. Interrupt, reduce dose, 
+or discontinue PIQRAY if severe hyperglycemia occurs. (2.3, 5.3, 6.1) 
+ Pneumonitis: PIQRAY can cause severe pneumonitis and interstitial lung 
+disease. Monitor for clinical symptoms or radiological changes. Interrupt or 
+discontinue PIQRAY if severe pneumonitis occurs. (2.3, 5.4) 
+ Diarrhea or Colitis: PIQRAY causes diarrhea in most patients and may be 
+severe, resulting in dehydration and acute kidney injury. Advise patients to 
+start antidiarrheal treatment, increase oral fluids, and notify their healthcare 
+provider if diarrhea occurs. 
+Colitis has been reported in patients treated with PIQRAY. Monitor for 
+diarrhea and additional symptoms of colitis, including abdominal pain and 
+mucus or blood in stool. 
+Interrupt, reduce dose, or discontinue PIQRAY if severe diarrhea or colitis 
+occurs. Patients with colitis may require additional treatment, such as 
+enteric-acting and/or systemic steroids. (2.3, 5.5, 6.2) 
+ Embryo-Fetal Toxicity: PIQRAY can cause fetal harm. Advise patients of 
+potential risk to a fetus and to use effective contraception. (5.6, 8.1, 8.3) 
+Refer to the Full Prescribing Information of fulvestrant for pregnancy and 
+contraception information.","The precautions for PIQRAY include severe hypersensitivity, severe cutaneous adverse reactions (SCARs), hyperglycemia, pneumonitis, diarrhea or colitis, and embryo-fetal toxicity. These precautions involve monitoring for specific symptoms or adverse reactions, interrupting or discontinuing PIQRAY if necessary, and providing appropriate treatment or interventions as indicated.",0.694166898727417,0.17054263565891473,0.06753246753246753,0.10852713178294573
+"Most common adverse reactions, including laboratory abnormalities (all 
+Grades, incidence ? 20%) were glucose increased, creatinine increased, 
+diarrhea, rash, lymphocyte count decreased, gamma-glutamyl transferase 
+(GGT) increased, nausea, alanine aminotransferase (ALT) increased, fatigue, 
+hemoglobin decreased, lipase increased, decreased appetite, stomatitis, 
+vomiting, weight decreased, calcium decreased, glucose decreased, activated 
+partial thromboplastin time (aPTT) prolonged, and alopecia. (6.1) 
+To report SUSPECTED ADVERSE REACTIONS, contact Novartis 
+Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA­
+1088 or www.fda.gov/medwatch.","The adverse reactions associated with PIQRAY include glucose increased, creatinine increased, diarrhea, rash, lymphocyte count decreased, GGT increased, nausea, ALT increased, fatigue, hemoglobin decreased, and various other reactions listed in the document.",0.590676486492157,0.3684210526315789,0.26785714285714285,0.3684210526315789
+"Most common adverse reactions, including laboratory abnormalities (all 
+Grades, incidence ? 20%) were glucose increased, creatinine increased, 
+diarrhea, rash, lymphocyte count decreased, gamma-glutamyl transferase 
+(GGT) increased, nausea, alanine aminotransferase (ALT) increased, fatigue, 
+hemoglobin decreased, lipase increased, decreased appetite, stomatitis, 
+vomiting, weight decreased, calcium decreased, glucose decreased, activated 
+partial thromboplastin time (aPTT) prolonged, and alopecia. (6.1) 
+To report SUSPECTED ADVERSE REACTIONS, contact Novartis 
+Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA­
+1088 or www.fda.gov/medwatch.","The document lists the following common adverse reactions to PIQRAY:
+
+Glucose increased
+Creatinine increased
+Diarrhea
+Rash
+Lymphocyte count decreased
+Gamma-glutamyl transferase (GGT) increased
+Nausea
+Alanine aminotransferase (ALT) increased
+Fatigue
+Hemoglobin decreased
+Lipase increased
+Decreased appetite
+Stomatitis
+Vomiting
+Weight decreased
+Calcium decreased
+Glucose decreased
+Activated partial thromboplastin time (aPTT) prolonged
+Alopecia
+These are the side effects associated with the use of PIQRAY.",0.5902829170227051,0.6250000000000001,0.5774647887323944,0.6111111111111112
+"CYP3A4 Inducers: Avoid coadministration of PIQRAY with a strong 
+CYP3A4 inducer. Consider an alternative concomitant drug with no or 
+minimal potential to induce CYP3A4. (7.1) 
+ Breast Cancer Resistance Protein (BCRP) Inhibitors: Avoid the use of 
+BCRP inhibitors in patients treated with PIQRAY. If unable to use 
+alternative drugs, closely monitor for increased adverse reactions. (7.1)","The document states the drug interactions for PIQRAY as follows:
+
+CYP3A4 Inducers: Avoid coadministration of PIQRAY with a strong CYP3A4 inducer. Consider an alternative concomitant drug with no or minimal potential to induce CYP3A4.
+Breast Cancer Resistance Protein (BCRP) Inhibitors: Avoid the use of BCRP inhibitors in patients treated with PIQRAY. If unable to use alternative drugs, closely monitor for increased adverse reactions.",0.9368349313735962,0.8833333333333334,0.864406779661017,0.8833333333333334
+"SOLTAMOX is an estrogen agonist/antagonist indicated: 
+? For treatment of adult patients with estrogen receptor-positive metastatic 
+breast cancer (1.1) 
+? For adjuvant treatment of adult patients with early stage estrogen receptor- 
+positive breast cancer (1.2) 
+? To reduce risk of invasive breast cancer following breast surgery and 
+radiation in adult women with ductal carcinoma in situ (DCIS) (1.3) 
+? To reduce the incidence of breast cancer in adult women at high risk (1.4)
+","The indications for SOLTAMOX are:
+
+Treatment of adult patients with estrogen receptor-positive metastatic breast cancer
+Adjuvant treatment of adult patients with early stage estrogen receptor-positive breast cancer
+To reduce risk of invasive breast cancer following breast surgery and radiation in adult women with ductal carcinoma in situ (DCIS)
+To reduce the incidence of breast cancer in adult women at high risk.",0.9206665754318237,0.8695652173913043,0.7941176470588235,0.8550724637681159
+"SOLTAMOX is an estrogen agonist/antagonist indicated: 
+? For treatment of adult patients with estrogen receptor-positive metastatic 
+breast cancer (1.1) 
+? For adjuvant treatment of adult patients with early stage estrogen receptor- 
+positive breast cancer (1.2) 
+? To reduce risk of invasive breast cancer following breast surgery and 
+radiation in adult women with ductal carcinoma in situ (DCIS) (1.3) 
+? To reduce the incidence of breast cancer in adult women at high risk (1.4)
+","The document states that the usage of SOLTAMOX includes:
+
+Treatment of adult patients with estrogen receptor-positive metastatic breast cancer
+Adjuvant treatment of adult patients with early stage estrogen receptor-positive breast cancer
+Reduction of risk of invasive breast cancer following breast surgery and radiation in adult women with ductal carcinoma in situ (DCIS)
+Reduction of the incidence of breast cancer in adult women at high risk",0.9116828441619873,0.7746478873239437,0.7142857142857142,0.7746478873239437
+" Metastatic breast cancer: 20-40 mg per day.  For doses greater than 20 mg 
+per day, administer in divided doses (morning and evening).  (2) 
+? Adjuvant treatment of breast cancer, DCIS, reduction of breast cancer 
+incidence in women at high risk: 20 mg per day (2)","The dosage for SOLTAMOX varies depending on the condition being treated:
+
+For metastatic breast cancer: 20-40 mg per day, with doses greater than 20 mg per day administered in divided doses (morning and evening).
+For adjuvant treatment of breast cancer, DCIS, and reduction of breast cancer incidence in women at high risk: 20 mg per day.",0.7836973071098328,0.8235294117647058,0.7200000000000001,0.803921568627451
+"Uterine malignancies: Promptly evaluate abnormal vaginal bleeding in a 
+woman with current or past tamoxifen use. (5.1) 
+? Thromboembolic events: Risk increases with coadministered 
+chemotherapy. For treatment of breast cancer, consider risks and benefits 
+in patients with a history of thromboembolic events. (5.2) 
+? Embryo-fetal toxicity: Can cause fetal harm. Advise females of 
+reproductive potential of the potential risk to a fetus and to use effective 
+contraception. (5.3, 8.1, 8.3) 
+? Effects on the liver:  Liver cancer and liver abnormalities, some fatal, 
+have occurred.  Perform periodic liver function testing. (5.4, 5.9)","The warnings for SOLTAMOX include:
+
+Uterine malignancies: Promptly evaluate abnormal vaginal bleeding in a woman with current or past tamoxifen use.
+Thromboembolic events: Risk increases with coadministered chemotherapy. Consider risks and benefits in patients with a history of thromboembolic events.
+Embryo-fetal toxicity: Can cause fetal harm. Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception.
+Effects on the liver: Liver cancer and liver abnormalities, some fatal, have occurred. Perform periodic liver function testing.",0.7603919506072998,0.8764044943820225,0.8181818181818181,0.8651685393258427
+"Uterine malignancies: Promptly evaluate abnormal vaginal bleeding in a 
+woman with current or past tamoxifen use. (5.1) 
+? Thromboembolic events: Risk increases with coadministered 
+chemotherapy. For treatment of breast cancer, consider risks and benefits 
+in patients with a history of thromboembolic events. (5.2) 
+? Embryo-fetal toxicity: Can cause fetal harm. Advise females of 
+reproductive potential of the potential risk to a fetus and to use effective 
+contraception. (5.3, 8.1, 8.3) 
+? Effects on the liver:  Liver cancer and liver abnormalities, some fatal, 
+have occurred.  Perform periodic liver function testing. (5.4, 5.9)","The document lists the following precautions for SOLTAMOX:
+
+Uterine malignancies: Promptly evaluate abnormal vaginal bleeding in a woman with current or past tamoxifen use.
+Thromboembolic events: Risk increases with coadministered chemotherapy. Consider risks and benefits in patients with a history of thromboembolic events.
+Embryo-fetal toxicity: Can cause fetal harm. Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception.
+Effects on the liver: Liver cancer and liver abnormalities, some fatal, have occurred. Perform periodic liver function testing.",0.7271244525909424,0.8618784530386742,0.8044692737430167,0.850828729281768
+"Most common adverse reactions: hot flashes, mood disturbances, vaginal 
+discharge, vaginal bleeding, nausea, and fluid retention (6.1). 
+To report SUSPECTED ADVERSE REACTIONS, contact Midatech 
+Pharma US Inc. at 1-855-273-0468 or FDA at 1-800-FDA-1088 or 
+www.fda.gov/medwatch.","Most common adverse reactions to SOLTAMOX include hot flashes, mood disturbances, vaginal discharge, vaginal bleeding, nausea, and fluid retention.",0.7361952662467957,0.53125,0.45161290322580644,0.5
+"Most common adverse reactions: hot flashes, mood disturbances, vaginal 
+discharge, vaginal bleeding, nausea, and fluid retention (6.1). 
+To report SUSPECTED ADVERSE REACTIONS, contact Midatech 
+Pharma US Inc. at 1-855-273-0468 or FDA at 1-800-FDA-1088 or 
+www.fda.gov/medwatch.","Most common adverse reactions to SOLTAMOX include hot flashes, mood disturbances, vaginal discharge, vaginal bleeding, nausea, and fluid retention.",0.7361952662467957,0.53125,0.45161290322580644,0.5
+"Anastrozole and letrozole: Should not be used in combination with 
+tamoxifen. (7.1) 
+? Warfarin: Do not use in patients taking tamoxifen for DCIS and for 
+reduction in breast cancer incidence in women at high risk. (4) Closely 
+monitor coagulation indices for increased anticoagulant effect when used 
+with tamoxifen for metastatic breast cancer or as adjuvant therapy. (7.2)",Anastrozole and letrozole should not be used in combination with tamoxifen. Warfarin should be closely monitored for increased anticoagulant effect when used with tamoxifen for metastatic breast cancer or as adjuvant therapy.,0.9439517259597778,0.6444444444444445,0.5681818181818181,0.6444444444444445
+"TALZENNA is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated 
+for: 
+Breast Cancer 
+ As a single agent, for the treatment of adult patients with deleterious or 
+suspected deleterious germline BRCA-mutated (gBRCAm) HER2-negative 
+locally advanced or metastatic breast cancer. Select patients for therapy 
+based on an FDA-approved companion diagnostic for TALZENNA. (1.1) 
+HRR Gene-mutated Metastatic Castration-Resistant Prostate Cancer 
+(mCRPC) 
+ In combination with enzalutamide for the treatment of adult patients with 
+HRR gene-mutated metastatic castration-resistant prostate cancer 
+(mCRPC). (1.2)","The indications for TALZENNA are:
+
+Breast Cancer: As a single agent, for the treatment of adult patients with deleterious or suspected deleterious germline BRCA-mutated (gBRCAm) HER2-negative locally advanced or metastatic breast cancer.
+HRR Gene-mutated Metastatic Castration-Resistant Prostate Cancer (mCRPC): In combination with enzalutamide for the treatment of adult patients with HRR gene-mutated metastatic castration-resistant prostate cancer (mCRPC).",0.913346529006958,0.8053691275167785,0.7755102040816326,0.7919463087248322
+"TALZENNA is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated 
+for: 
+Breast Cancer 
+ As a single agent, for the treatment of adult patients with deleterious or 
+suspected deleterious germline BRCA-mutated (gBRCAm) HER2-negative 
+locally advanced or metastatic breast cancer. Select patients for therapy 
+based on an FDA-approved companion diagnostic for TALZENNA. (1.1) 
+HRR Gene-mutated Metastatic Castration-Resistant Prostate Cancer 
+(mCRPC) 
+ In combination with enzalutamide for the treatment of adult patients with 
+HRR gene-mutated metastatic castration-resistant prostate cancer 
+(mCRPC). (1.2)","The usage of Talzenna is for the treatment of adult patients with deleterious or suspected deleterious germline BRCA-mutated (gBRCAm) HER2-negative locally advanced or metastatic breast cancer, and in combination with enzalutamide for the treatment of adult patients with HRR gene-mutated metastatic castration-resistant prostate cancer (mCRPC).",0.8900296688079834,0.6666666666666667,0.631578947368421,0.6666666666666667
+"Myelodysplastic Syndrome/Acute Myeloid Leukemia (MDS/AML): 
+MDS/AML occurred in patients exposed to TALZENNA, and some cases 
+were fatal. Monitor patients for hematological toxicity and discontinue if 
+MDS/AML is confirmed. (5.1) 
+ Myelosuppression: TALZENNA may affect hematopoiesis and can cause 
+anemia, neutropenia, and/or thrombocytopenia. (5.2) 
+ Embryo-Fetal Toxicity: TALZENNA can cause fetal harm. Advise of the 
+potential risk to the fetus and to use effective contraception. (5.3, 8.1, 8.3)"," The warnings for TALZENNA include Myelodysplastic Syndrome/Acute Myeloid Leukemia (MDS/AML), Myelosuppression, and Embryo-Fetal Toxicity.",0.8696320056915283,0.32258064516129026,0.17582417582417584,0.25806451612903225
+"Myelodysplastic Syndrome/Acute Myeloid Leukemia (MDS/AML): 
+MDS/AML occurred in patients exposed to TALZENNA, and some cases 
+were fatal. Monitor patients for hematological toxicity and discontinue if 
+MDS/AML is confirmed. (5.1) 
+ Myelosuppression: TALZENNA may affect hematopoiesis and can cause 
+anemia, neutropenia, and/or thrombocytopenia. (5.2) 
+ Embryo-Fetal Toxicity: TALZENNA can cause fetal harm. Advise of the 
+potential risk to the fetus and to use effective contraception. (5.3, 8.1, 8.3)","The precautions for TALZENNA include monitoring for Myelodysplastic Syndrome/Acute Myeloid Leukemia (MDS/AML), myelosuppression (anemia, neutropenia, and/or thrombocytopenia), and advising patients about the potential risk of embryo-fetal toxicity and the need to use effective contraception.",0.8672952651977539,0.5263157894736843,0.3214285714285714,0.36842105263157904
+"Most common adverse reactions (?20%) as a single agent, including 
+laboratory abnormalities, are: 
+ Hemoglobin decreased, neutrophils decreased, lymphocytes decreased, 
+platelets decreased, fatigue, glucose increased, aspartate aminotransferase 
+increased, alkaline phosphatase increased, alanine aminotransferase 
+increased, calcium decreased, nausea, headache, vomiting, alopecia, 
+diarrhea, and decreased appetite. (6.1) 
+Most common adverse reactions (?10%) in combination with enzalutamide, 
+including laboratory abnormalities, are: 
+ Hemoglobin decreased, neutrophils decreased, lymphocytes decreased, 
+fatigue, platelets decreased, calcium decreased, nausea, decreased appetite, 
+sodium decreased, phosphate decreased, fractures, magnesium decreased, 
+dizziness, bilirubin increased, potassium decreased, and dysgeusia. (6.1) 
+To report SUSPECTED ADVERSE REACTIONS, contact Pfizer Inc. at 
+1-800-438-1985 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+","The most common adverse reactions for Talzenna as a single agent include decreased hemoglobin, neutrophils, and lymphocytes, as well as fatigue, increased glucose, and gastrointestinal symptoms like nausea, vomiting, and diarrhea. When used in combination with enzalutamide, additional adverse reactions include decreased platelets, calcium, and appetite, as well as fractures, dizziness, and electrolyte imbalances.",0.7269135117530823,0.38323353293413176,0.13333333333333336,0.32335329341317365
+"Most common adverse reactions (?20%) as a single agent, including 
+laboratory abnormalities, are: 
+ Hemoglobin decreased, neutrophils decreased, lymphocytes decreased, 
+platelets decreased, fatigue, glucose increased, aspartate aminotransferase 
+increased, alkaline phosphatase increased, alanine aminotransferase 
+increased, calcium decreased, nausea, headache, vomiting, alopecia, 
+diarrhea, and decreased appetite. (6.1) 
+Most common adverse reactions (?10%) in combination with enzalutamide, 
+including laboratory abnormalities, are: 
+ Hemoglobin decreased, neutrophils decreased, lymphocytes decreased, 
+fatigue, platelets decreased, calcium decreased, nausea, decreased appetite, 
+sodium decreased, phosphate decreased, fractures, magnesium decreased, 
+dizziness, bilirubin increased, potassium decreased, and dysgeusia. (6.1) 
+To report SUSPECTED ADVERSE REACTIONS, contact Pfizer Inc. at 
+1-800-438-1985 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+","The document lists the following common side effects for TALZENNA:
+
+Hemoglobin decreased
+Neutrophils decreased
+Lymphocytes decreased
+Platelets decreased
+Fatigue
+Glucose increased
+Aspartate aminotransferase increased
+Alkaline phosphatase increased
+Alanine aminotransferase increased
+Calcium decreased
+Nausea
+Headache
+Vomiting
+Alopecia
+Diarrhea
+Decreased appetite",0.5834734439849854,0.39473684210526316,0.36,0.39473684210526316
+"P-gp Inhibitors: Reduce the dose when coadministered with certain P-gp 
+inhibitors. Monitor for increased adverse reactions. (2.7, 7.1) 
+ BCRP Inhibitors: Monitor for potential increased adverse reactions. (7.1)","The document provides information about drug interactions with TALZENNA. It mentions that coadministration with P-gp Inhibitors may require a dose reduction and monitoring for increased adverse reactions. Additionally, it advises monitoring for potential increased adverse reactions when TALZENNA is used with BCRP Inhibitors.",0.7633675932884216,0.47368421052631576,0.2702702702702703,0.3684210526315789
+"WINREVAIR is an activin signaling inhibitor indicated for the treatment
+of adults with pulmonary arterial hypertension (PAH, WHO Group 1) to
+increase exercise capacity, improve WHO functional class (FC) and
+reduce the risk of clinical worsening events. (1)","The indications for WINREVAIR are for the treatment of adults with pulmonary arterial hypertension (PAH, WHO Group 1) to increase exercise capacity, improve WHO functional class (FC), and reduce the risk of clinical worsening events.",0.9165670871734619,0.8493150684931505,0.8169014084507041,0.8493150684931505
+"The recommended starting dose is 0.3 mg/kg by subcutaneous
+injection. (2.1)
+ The recommended target dose is 0.7 mg/kg every 3 weeks by
+subcutaneous injection. (2.2)
+ Dosage modifications due to increased hemoglobin (Hgb) and
+decreased platelets may be necessary. Check Hgb and platelets
+before each dose for the first 5 doses, or longer if values are unstable,
+and monitor periodically thereafter. (2.3)
+ See full prescribing information for preparation and administration
+instructions. (2.4)",The recommended starting dose is 0.3 mg/kg by subcutaneous injection.  The recommended target dose is 0.7 mg/kg every 3 weeks by subcutaneous injection.,0.9011529088020325,0.5094339622641509,0.4807692307692308,0.5094339622641509
+,The document does not contain the infromation you asked for,-0.0014469102025032043,0.0,0.0,0.0
+"Erythrocytosis: If severe, may increase the risk of thromboembolic events and hyperviscosity syndrome. Monitor Hgb before each dose
+for the first 5 doses, or longer if values are unstable, and periodically thereafter to determine if dose adjustments are required. (5.1)
+ Severe Thrombocytopenia: May increase the risk of bleeding. Monitor
+platelets before each dose for the first 5 doses, or longer if values are
+unstable, and periodically thereafter to determine if dose adjustments
+are required. (5.2)
+ Serious Bleeding: Serious bleeding events were reported and were
+more likely with concomitant prostacyclin and/or antithrombotic
+agents, or with low platelet counts. Do not administer WINREVAIR if
+the patient is experiencing serious bleeding. (5.3)
+ Embryo-Fetal Toxicity: May cause fetal harm. Advise females of
+reproductive potential of the potential risk to a fetus and use of
+effective contraception. (5.4, 8.1, 8.3)
+ Impaired Fertility: May impair female and male fertility. (5.5, 8.3, 13.1)","The precautions for WINREVAIR include monitoring for erythrocytosis, severe thrombocytopenia, serious bleeding events, embryo-fetal toxicity, and impaired fertility. It is important to monitor hemoglobin and platelet levels before each dose initially and periodically thereafter to determine if dose adjustments are required. Additionally, caution should be taken in patients at risk for thromboembolic events, bleeding, or those who may be pregnant or trying to conceive.",0.8408180475234985,0.37837837837837834,0.16363636363636364,0.2162162162162162
+"The most common (?10% in patients receiving WINREVAIR and 5%
+more than placebo) adverse reactions were headache, epistaxis, rash,
+telangiectasia, diarrhea, dizziness, and erythema. (6.1)"," The most common adverse reactions of WINREVAIR are headache, epistaxis, rash, telangiectasia, diarrhea, dizziness, and erythema.",0.9288210868835449,0.6666666666666667,0.5,0.6190476190476191
+"Most common adverse reactions in clinical studies of ARICEPT are nausea,
+diarrhea, insomnia, vomiting, muscle cramps, fatigue, and anorexia (6.1)","The most common adverse reactions of ARICEPT listed in the document are nausea, diarrhea, insomnia, vomiting, muscle cramps, fatigue, and anorexia.",0.9833552837371826,0.8095238095238095,0.65,0.7619047619047619
+"Cholinesterase inhibitors have the potential to interfere with the activity of
+anticholinergic medications (7.1)
+ A synergistic effect may be expected with concomitant administration of
+succinylcholine, similar neuromuscular blocking agents, or cholinergic
+agonists (7.2)","The drug interactions for ARICEPT include the potential to interfere with the activity of anticholinergic medications and a synergistic effect may be expected with concomitant administration of succinylcholine, similar neuromuscular blocking agents, or cholinergic agonists.",0.7619644403457642,0.8000000000000002,0.7647058823529412,0.8000000000000002
+"Cholinesterase inhibitors are likely to exaggerate succinylcholine-type
+muscle relaxation during anesthesia (5.1)
+ Cholinesterase inhibitors may have vagotonic effects on the sinoatrial and
+atrioventricular nodes manifesting as bradycardia or heart block (5.2)
+ ARICEPT can cause vomiting. Patients should be observed closely at
+initiation of treatment and after dose increases (5.3)
+ Patients should be monitored closely for symptoms of active or occult
+gastrointestinal (GI) bleeding, especially those at increased risk for
+developing ulcers (5.4)
+ The use of ARICEPT in a dose of 23 mg once daily is associated with
+weight loss (5.5)
+ Cholinomimetics may cause bladder outflow obstructions (5.6)
+ Cholinomimetics are believed to have some potential to cause generalized
+convulsions (5.7)
+ Cholinesterase inhibitors should be prescribed with care to patients with a
+history of asthma or obstructive pulmonary disease (5.8)","Cholinesterase inhibitors are likely to exaggerate succinylcholine-type muscle relaxation during anesthesia  Cholinesterase inhibitors may have vagotonic effects on the sinoatrial and atrioventricular nodes manifesting as bradycardia or heart block  ARICEPT can cause vomiting. Patients should be observed closely at initiation of treatment and after dose increases  Patients should be monitored closely for symptoms of active or occult gastrointestinal (GI) bleeding, especially those at increased risk for developing ulcers  The use of ARICEPT in a dose of 23 mg once daily is associated with weight loss  Cholinomimetics may cause bladder outflow obstructions  Cholinomimetics are believed to have some potential to cause generalized convulsions  Cholinesterase inhibitors should be prescribed with care to patients with a history of asthma or obstructive pulmonary disease",0.9742596745491028,0.937984496124031,0.8828125000000001,0.937984496124031
+"Mild to Moderate Alzheimers Disease: 5 mg to 10 mg once daily (2.1)
+ Moderate to Severe Alzheimers Disease: 10 mg to 23 mg once daily (2.2)","For mild to moderate Alzheimer's Disease, the recommended dosage of ARICEPT is 5 mg to 10 mg once daily. For moderate to severe Alzheimer's Disease, the recommended dosage is 10 mg to 23 mg once daily.",0.7468138337135315,0.7647058823529413,0.6666666666666667,0.7647058823529413
+"ARICEPT is an acetylcholinesterase inhibitor indicated for the treatment of
+dementia of the Alzheimers type. Efficacy has been demonstrated in patients
+with mild, moderate, and severe Alzheimers Disease (1)",ARICEPT is indicated for the treatment of dementia of the Alzheimers type.,0.9375952482223511,0.5909090909090909,0.5238095238095238,0.5909090909090909
+"GLUCOPHAGE is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. (1)
+GLUCOPHAGE XR is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. (1)",GLUCOPHAGE is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus.,0.9444885849952698,0.7111111111111111,0.7045454545454546,0.7111111111111111
+"Adult Dosage for GLUCOPHAGE:
+Starting dose: 500 mg orally twice a day or 850 mg once a day, with meals (2.1)
+Increase the dose in increments of 500 mg weekly or 850 mg every 2 weeks, up
+to a maximum dose of 2550 mg per day, given in divided doses (2.1)
+Doses above 2000 mg may be better tolerated given 3 times a day with meals
+(2.1)
+Adult Dosage for GLUCOPHAGE XR:
+Swallow GLUCOPHAGE XR tablets whole and never crush, cut or chew (2.1)
+Starting dose: 500 mg orally once daily with the evening meal (2.1)
+Increase the dose in increments of 500 mg weekly, up to a maximum of 2000
+mg once daily with the evening meal (2.1)
+Patients receiving GLUCOPHAGE may be switched to GLUCOPHAGE XR
+once daily at the same total daily dose, up to 2000 mg once daily (2.1)
+Pediatric Dosage for GLUCOPHAGE:
+Starting dose: 500 mg orally twice a day, with meals (2.2)
+Increase dosage in increments of 500 mg weekly up to a maximum of 2000 mg per day, given in divided doses twice daily (2.2)
+Renal Impairment:  Prior to initiation, assess renal function with estimated glomerular filtration rate (eGFR) (2.3)
+o Do not use in patients with eGFR below 30 mL/minute/1.73 m2 (2.3)
+o Initiation is not recommended in patients with eGFR between 30-45 mL/minute/1.73 m2 (2.3)
+o Assess risk/benefit of continuing if eGFR falls below 45 mL/minute/1.73 m2 (2.3)
+o Discontinue if eGFR falls below 30 mL/minute/1.73 m2 (2.3) Discontinuation for Iodinated Contrast Imaging Procedures:
+ GLUCOPHAGE/GLUCOPHAGE XR may need to be discontinued at time of, or prior to, iodinated contrast imaging procedures (2.4)
+","The recommended dosage for GLUCOPHAGE in adults is to start with 500 mg orally twice a day or 850 mg once a day, with meals, and then increase the dose in increments of 500 mg weekly or 850 mg every 2 weeks, up to a maximum dose of 2550 mg per day, given in divided doses. The starting dose for GLUCOPHAGE XR in adults is 500 mg orally once daily with the evening meal, with the option to increase the dose in increments of 500 mg weekly, up to a maximum of 2000 mg once daily with the evening meal.",0.9352931380271912,0.4588528678304239,0.37593984962406013,0.3990024937655861
+"For GLUCOPHAGE/GLUCOPHAGE XR, the most common adverse reactions (>5.0%) are diarrhea, nausea/vomiting, flatulence, asthenia, indigestion, abdominal discomfort, and headache. (6.1)","The most common adverse reactions for GLUCOPHAGE/GLUCOPHAGE XR are diarrhea, nausea/vomiting, flatulence, asthenia, indigestion, abdominal discomfort, and headache.",0.981252133846283,0.9090909090909091,0.8095238095238095,0.7272727272727272
+"Carbonic anhydrase inhibitors may increase risk of lactic acidosis. Consider more frequent monitoring (7)
+
+Drugs that reduce metformin clearance (such as ranolazine, vandetanib, dolutegravir, and cimetidine) may increase the accumulation of metformin. Consider the benefits and risks of concomitant use (7)
+
+Alcohol can potentiate the effect of metformin on lactate metabolism. Warn patients against excessive alcohol intake (7)","The document states that drug interactions for Glucophage include:
+
+Carbonic anhydrase inhibitors may increase the risk of lactic acidosis, requiring more frequent monitoring.
+Drugs that reduce metformin clearance (such as ranolazine, vandetanib, dolutegravir, and cimetidine) may increase the accumulation of metformin. Consider the benefits and risks of concomitant use.
+Alcohol can potentiate the effect of metformin on lactate metabolism, so patients should be warned against excessive alcohol intake.",0.8481563329696655,0.8412698412698414,0.7419354838709676,0.8412698412698414
+"FARXIGA
+is a sodium-glucose cotransporter 2 (SGLT2) inhibitor indicated:
+
+To reduce the risk of sustained eGFR decline, end stage kidney disease, cardiovascular death, and hospitalization for heart failure in adults with chronic kidney disease at risk of progression. (1)
+
+To reduce the risk of cardiovascular death, hospitalization for heart failure, and urgent heart failure visit in adults with heart failure. (1)
+
+To reduce the risk of hospitalization for heart failure in adults with type 2 diabetes mellitus and either established cardiovascular disease or multiple cardiovascular risk factors. (1)
+
+As an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients aged 10 years and older with type 2 diabetes mellitus.
+(1)
+Limitations of use:
+
+Not recommended for use to improve glycemic control in patients with type 1 diabetes mellitus. (1)
+
+Not recommended for use to improve glycemic control in patients with type 2 diabetes mellitus with an eGFR less than 45 mL/min/1.73 m2. FARXIGA is likely to be ineffective in this setting based upon its mechanism of action. (1)
+
+Not recommended for the treatment of chronic kidney disease in patients with polycystic kidney disease or patients requiring or with a recent history of immunosuppressive therapy for the treatment of kidney disease. FARXIGA is not expected to be effective in these populations. (1)","The drug FARXIGA is used for various indications, including:
+
+To reduce the risk of sustained eGFR decline, end stage kidney disease, cardiovascular death, and hospitalization for heart failure in adults with chronic kidney disease at risk of progression.
+To reduce the risk of cardiovascular death, hospitalization for heart failure, and urgent heart failure visit in adults with heart failure.
+To reduce the risk of hospitalization for heart failure in adults with type 2 diabetes mellitus and either established cardiovascular disease or multiple cardiovascular risk factors.
+As an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients aged 10 years and older with type 2 diabetes mellitus.",0.8922674655914307,0.6404833836858006,0.601823708206687,0.6283987915407855
+"FARXIGA
+is a sodium-glucose cotransporter 2 (SGLT2) inhibitor indicated:
+
+To reduce the risk of sustained eGFR decline, end stage kidney disease, cardiovascular death, and hospitalization for heart failure in adults with chronic kidney disease at risk of progression. (1)
+
+To reduce the risk of cardiovascular death, hospitalization for heart failure, and urgent heart failure visit in adults with heart failure. (1)
+
+To reduce the risk of hospitalization for heart failure in adults with type 2 diabetes mellitus and either established cardiovascular disease or multiple cardiovascular risk factors. (1)
+
+As an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients aged 10 years and older with type 2 diabetes mellitus.
+(1)
+Limitations of use:
+
+Not recommended for use to improve glycemic control in patients with type 1 diabetes mellitus. (1)
+
+Not recommended for use to improve glycemic control in patients with type 2 diabetes mellitus with an eGFR less than 45 mL/min/1.73 m2. FARXIGA is likely to be ineffective in this setting based upon its mechanism of action. (1)
+
+Not recommended for the treatment of chronic kidney disease in patients with polycystic kidney disease or patients requiring or with a recent history of immunosuppressive therapy for the treatment of kidney disease. FARXIGA is not expected to be effective in these populations. (1)","ARXIGA is indicated:
+ To reduce the risk of sustained eGFR decline, end stage kidney disease, cardiovascular death, and hospitalization for heart failure in adults with chronic kidney disease at risk of progression.
+ To reduce the risk of cardiovascular death, hospitalization for heart failure, and urgent heart failure visit in adults with heart failure.
+ To reduce the risk of hospitalization for heart failure in adults with type 2 diabetes mellitus and either established cardiovascular disease or multiple cardiovascular risk factors.
+ As an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients aged 10 years and older with type 2 diabetes mellitus.",0.7729436159133911,0.64,0.6130030959752321,0.64
+"Assess renal function prior to initiation and then as clinically indicated. Assess volume status and correct volume depletion before initiating. (2.1)
+
+To improve glycemic control, the recommended starting dosage is 5 mg orally once daily. Dosage can be increased to 10 mg orally once daily for additional glycemic control. (2.2)
+
+For all other indications, the recommended dosage is 10 mg orally once daily. (2.3)
+
+See full prescribing information for dosage recommendations in patients with renal impairment. (2.2, 2.3)
+
+Withhold FARXIGA for at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting. (2.4)","The recommended dosage for Farxiga is 5 mg orally once daily to improve glycemic control. The dosage can be increased to 10 mg orally once daily for additional glycemic control. For all other indications, the recommended dosage is 10 mg orally once daily.",0.7148243188858032,0.5714285714285714,0.4827586206896552,0.4897959183673469
+"Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis: Consider ketone monitoring in patients with type 1 diabetes mellitus and consider ketone monitoring in others at risk for ketoacidosis, as indicated. Assess for ketoacidosis regardless of presenting blood glucose levels and discontinue FARXIGA if ketoacidosis is suspected. Monitor patients for resolution of ketoacidosis before restarting. (5.1)
+Volume depletion: Before initiating FARXIGA, assess volume status and renal function in the elderly, patients with renal impairment or low systolic blood pressure, and in patients on diuretics. Monitor for signs and symptoms during therapy. (5.2)
+Urosepsis and Pyelonephritis: Evaluate for signs and symptoms of urinary tract infections and treat promptly, if indicated. (5.3)
+Hypoglycemia: Consider a lower dose of insulin or the insulin secretagogue to reduce the risk of hypoglycemia when used in combination with FARXIGA. (5.4)
+Necrotizing Fasciitis of the Perineum (Fourniers Gangrene): Serious, life-threatening cases have occurred in patients with diabetes, both females and males. Assess patients presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise. If suspected, institute prompt treatment. (5.5)
+
+Genital Mycotic Infections: Monitor and treat if indicated. (5.6)","The precautions to be taken when using FARXIGA include monitoring for signs and symptoms of diabetic ketoacidosis, assessing volume status and renal function before initiation especially in elderly patients or those with renal impairment, monitoring for signs of urinary tract infections and treating promptly if indicated, considering a lower dose of insulin or insulin secretagogue to reduce the risk of hypoglycemia when used in combination with FARXIGA, assessing for signs of necrotizing fasciitis of the perineum (Fourniers Gangrene) and initiating prompt treatment if suspected, and monitoring for genital mycotic infections and treating if indicated.",0.7542829513549805,0.527027027027027,0.33333333333333337,0.42567567567567566
+"Most common adverse reactions (5% or greater incidence) were female genital mycotic infections, nasopharyngitis, and urinary tract infections.","The document states that the most common adverse reactions (5% or greater incidence) of FARXIGA are female genital mycotic infections, nasopharyngitis, and urinary tract infections.",0.6750996112823486,0.7906976744186047,0.7317073170731708,0.7906976744186047
